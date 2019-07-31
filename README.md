@@ -12,3 +12,5 @@
 <!-- ![ARM](/home/ap_tech/Pictures/Microcontroller.png) -->
 
 - What is the differences between a `Microcomputer`, a `Microprocessor`, and a `MicroController`
+
+![ARM](ARM.jpg)
