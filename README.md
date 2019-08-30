@@ -13,5 +13,5 @@
 
 - What is the differences between a `Microcomputer`, a `Microprocessor`, and a `MicroController`
 
-![ARM](img/ARM.jpg )
+![ARM](/img/ARM.jpg)
 <!-- <img src='' width='600' alt='npm start'> -->
